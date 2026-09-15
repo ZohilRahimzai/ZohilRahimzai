@@ -1,170 +1,92 @@
-# 👋 Hi, I'm Zohil Rahimzai
+# Zohil Rahimzai
 
-### 💻 Software Engineer | Full Stack Developer | Content Writer
+```bash
+zohil@github:~$ whoami
 
-I'm a **Software Engineer and Full Stack Developer** who enjoys building modern, responsive, and practical applications.
+Zohil Rahimzai
+Software Engineer • Full Stack Developer • Content Writer
 
-I work across frontend, backend, databases, APIs, and mobile applications, with a strong interest in creating products that solve real-world problems.
+zohil@github:~$ status
 
-🌐 **Portfolio:** [zohil.me](https://zohil.me)
+● online
+● building digital experiences
+● always learning
+```
 
----
+I’m a **Software Engineer and Full Stack Developer** focused on building clean, responsive, and useful digital experiences. I work with **JavaScript, React, Next.js, Node.js, Laravel, REST APIs, MySQL, MongoDB, Python, C++, Tailwind CSS, Bootstrap, Git, and GitHub**. I enjoy turning ideas into real products and continuously improving my skills through building and learning.
 
-## 🚀 About Me
+```bash
+zohil@github:~$ ls projects/
 
-* 💻 Software Engineer & Full Stack Developer
-* 🌐 Building modern web applications
-* 📱 Interested in mobile application development
-* 🧠 Passionate about problem solving and software engineering
-* 🤖 Exploring AI-powered applications
-* 📚 Always learning new technologies
-* ✍️ Content Writer
+ZChat
+Country Finder
+GitHub Profile Finder
+Personal Finance Dashboard
+Pixel Bloom
+Recipe Finder
+CEA
+Prompt Bloom
+Project Planner
+Beat Bloom
+DSA Bloom
+Trip Planner
+Smart Study Planner
+```
 
----
+### 🚀 Projects
 
-## 🛠️ Technologies & Tools
+* [ZChat](https://zohil.me/) — Modern chat application focused on real-time communication.
+* [Country Finder](https://zohil.me/) — Explore countries, flags, regions, and essential information.
+* [GitHub Profile Finder](https://zohil.me/) — Search GitHub profiles and explore repositories and statistics.
+* [Personal Finance Dashboard](https://zohil.me/) — Manage income, expenses, budgets, and financial goals.
+* [Pixel Bloom](https://zohil.me/) — Explore and download categorized high-quality images.
+* [Recipe Finder](https://zohil.me/) — Discover recipes, ingredients, and cooking information.
+* [CEA](https://cea.zohil.me/) — Coding education platform for learning and practicing programming.
+* [Prompt Bloom](https://zohil.me/) — Organize, save, and reuse AI prompts.
+* [Project Planner](https://zohil.me/) — Plan development projects, tasks, and progress.
+* [Beat Bloom](https://beatbloom.zohil.me/) — Browse music and sounds for creative projects.
+* [DSA Bloom](https://dsabloom.zohil.me/) — Learn data structures and algorithms.
+* [Trip Planner](https://zohil.me/) — Plan and organize trips.
+* [Smart Study Planner](https://zohil.me/) — Organize study plans, notes, focus sessions, and exams.
 
-### Frontend
+```bash
+zohil@github:~$ cat skills.sh
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb" />
-</p>
-
-### Programming & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 💬 ZChat
-
-A modern chat application designed for real-time communication and a smooth user experience.
-
-### 💰 Personal Finance Dashboard
-
-A dashboard for managing personal finances, expenses, budgets, and financial goals.
-
-### 🧠 DSA Bloom
-
-An educational platform for learning **Data Structures and Algorithms** through lessons, examples, and practice.
-
-### 📚 CEA
-
-A coding education platform focused on programming lessons, quizzes, questions, and interview preparation.
-
-### 🌍 Country Finder
-
-Explore countries, capitals, populations, currencies, flags, regions, and other useful information.
-
-### 🔎 GitHub Profile Finder
-
-A simple application for searching and exploring GitHub profiles and repositories.
-
-### 🍳 Recipe Finder
-
-Discover recipes, ingredients, instructions, and cooking information through a simple interface.
-
-### 🌸 Pixel Bloom
-
-An image discovery and gallery application for exploring high-quality images.
-
-### 🤖 Prompt Bloom
-
-A workspace for organizing, saving, editing, and reusing AI prompts.
-
-### 🎵 Beat Bloom
-
-A platform for discovering music and sounds for creative projects.
-
-### ✈️ Trip Planner
-
-A practical application for organizing and planning trips.
-
-### 📋 Smart Study Planner
-
-A productivity application for organizing study schedules, lessons, focus sessions, and exams.
-
----
-
-## 🎓 Education
-
-**Karwan University**
-Bachelor of Computer Science
-
-**Kabul Center English Language Institute**
-English Language Certification
-
----
-
-## 🏆 Certifications
-
-* Responsive Web Design — freeCodeCamp
-* JavaScript Algorithms and Data Structures — freeCodeCamp
-* Scientific Computing with Python — freeCodeCamp
-* LangChain Academy
-
----
+Frontend   → JavaScript • React • Next.js • Tailwind • Bootstrap
+Backend    → Node.js • Laravel • REST APIs
+Database   → MySQL • MongoDB
+Languages  → JavaScript • Python • C++
+Tools      → Git • GitHub
+```
 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZohilRahimzai&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohilRahimzai&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZohilRahimzai&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-* ⚛️ React & Next.js
-* 🟢 Node.js
-* 🔌 REST APIs
-* 🗄️ Database Design
-* 🤖 AI & AI-powered applications
-* 📱 Mobile Development
-* 🧠 Data Structures & Algorithms
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://zohil.me">
-    <img src="https://img.shields.io/badge/Portfolio-zohil.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/ZohilRahimzai">
-    <img src="https://img.shields.io/badge/GitHub-ZohilRahimzai-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⚡ My Philosophy
-
-> **Build useful things. Write clean code. Keep learning.**
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZohilRahimzai&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohilRahimzai&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and projects.
+  <img src="https://streak-stats.demolab.com?user=ZohilRahimzai&theme=github-dark&hide_border=true" />
+</p>
+
+## 🔥 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZohilRahimzai&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+```bash
+zohil@github:~$ ./connect
+
+Website  → https://zohil.me
+GitHub   → https://github.com/ZohilRahimzai
+Email    → hi@zohil.me
+
+zohil@github:~$ echo "Always learning."
+Always learning.
+```
+
+<p align="center">
+  <b>Thanks for visiting.</b> 👋
 </p>
