@@ -1,16 +1,5 @@
 <div align="center">
 
-<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
-  <rect width="150" height="150" rx="32" fill="#0d1117"/>
-  <rect x="8" y="8" width="134" height="134" rx="26" fill="#161b22" stroke="#30363d" stroke-width="2"/>
-  <text x="18" y="34" fill="#58a6ff" font-family="monospace" font-size="8">01001010</text>
-  <text x="18" y="46" fill="#8b949e" font-family="monospace" font-size="7">zohil@github:~$</text>
-  <text x="18" y="57" fill="#7ee787" font-family="monospace" font-size="7">whoami</text>
-  <text x="75" y="101" text-anchor="middle" fill="#f0f6fc" font-family="monospace" font-weight="bold" font-size="58">Z</text>
-  <text x="18" y="122" fill="#8b949e" font-family="monospace" font-size="6">asfnajvfbzxbvlksnflkq</text>
-  <text x="18" y="132" fill="#58a6ff" font-family="monospace" font-size="6">4235474586670889</text>
-</svg>
-
 # 👋 Hi, I'm Zohil Rahimzai
 
 ### 💻 Software Engineer · Full Stack Developer · Content Writer
