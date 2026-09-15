@@ -66,21 +66,6 @@ I'm a **Software Engineer and Full Stack Developer** who enjoys building modern,
 
 <div align="center">
 
-### `zohil@github:~$ status`
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   ● building useful things                 │
-│   ● writing clean code                     │
-│   ● learning new technologies              │
-│   ● turning ideas into products             │
-│                                             │
-│   > system.status = "building"             │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
 <p>
   <a href="https://zohil.me/">🌐 Portfolio</a>
   •
